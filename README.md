@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Eesh Sagar Singh <img src="https://media.giphy.com/media/mGcnDi1B98yl19D12n/giphy.gif" width="30px"></h1>
+  <h1>Hi, I'm Eesh Sagar Singh <img src="https://media.licdn.com/dms/image/v2/D5603AQFT2plREW1Vjg/profile-displayphoto-shrink_800_800/B56ZTvZLjYHoAc-/0/1739183144092?e=1774483200&v=beta&t=242UDgbS9BlAD20VAZRaC3VlUJHiVYVXFEQAWjnB1eI" width="30px"></h1>
   <h3>AI Engineer | Data Scientist | B.Tech IT Undergrad</h3>
   <p><em>Architecting autonomous AI agents, neural networks, and cinematic web experiences.</em></p>
 </div>
